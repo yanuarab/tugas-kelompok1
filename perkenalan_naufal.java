@@ -8,7 +8,4 @@ public class perkenalan_naufal {
         System.out.println("Hobi: Desain");
 
     }
-}
- 
-    
 
